@@ -1,0 +1,15 @@
+.column-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 5px; /* Espacio entre filas */
+}
+
+.row {
+  display: flex;
+  gap: 5px; /* Espacio entre columnas */
+}
+
+.column {
+  flex: 1; /* Cada columna ocupa el mismo espacio */
+  min-width: 0; /* Evita que los componentes hijos desborden */
+}

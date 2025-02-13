@@ -1,9 +1,8 @@
-# daily-report-project
+# React + Vite
 
-Este proyecto esta hecho para agilizar el reporte de estructuras del equipo de Garcia.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-El objetivo inmediato es hacer una aplicacion que te permita ingresar el nombre, una imagen y una descripcion, y que los reportes se vayan acomodando de manera consecutiva. 
+Currently, two official plugins are available:
 
-Tambien se busca dividir las entradas por zonas.
-
-Ademas, se debe poder ingresar el nombre del supervisor que esta enviando el reporte, junto con su cuadrilla.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

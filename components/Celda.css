@@ -1,0 +1,30 @@
+.celda-container {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.titulo {
+  color: black;
+  font-size: 18px;
+  margin-bottom: 12px;
+  background-color: yellow;
+}
+
+.imagen-container {
+  margin-bottom: 12px;
+}
+
+.imagen {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.descripcion {
+  font-size: 14px;
+  color: #222;
+  background-color: #c832;
+}
